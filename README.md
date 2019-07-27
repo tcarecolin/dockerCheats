@@ -1,1 +1,1 @@
-docker cheat sheet (swarm, stack, service, compose)  :muscle: :metal:
+docker cheat sheet (swarm, stack, service, compose)  :penguin: :metal:
